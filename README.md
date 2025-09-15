@@ -92,8 +92,10 @@ while True:
 
 ```
 ## Output
+<img width="957" height="261" alt="Screenshot 2025-09-15 160354" src="https://github.com/user-attachments/assets/81b4995e-7b3c-432e-b92d-66a4231736b2" />
+<img width="955" height="352" alt="Screenshot 2025-09-15 160400" src="https://github.com/user-attachments/assets/3003bb67-19c1-4675-81c5-9e357a0cefc8" />
 
-![image](https://github.com/user-attachments/assets/ed6107a6-b335-46aa-8c43-481359a758a9)
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
